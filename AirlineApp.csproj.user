@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="views\Admin\AddEditAircraftWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Admin\AddEditEmployeeWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Admin\AddEditFlightWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Admin\AddEditMaintenanceScheduleWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Admin\AddEditReportWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Admin\AddEditSparePartWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\admin\AddEditTrainingEventWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Admin\AssignCrewWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Admin\MaintenanceScheduleAdminView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Admin\ManageAircraftView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Admin\ManageEmployeesView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Admin\ManageFlightsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Admin\ManageReportsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Admin\AdminDashboard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\admin\ManageTrainingEventsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Admin\SparePartsAdminView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Crew\AddPilotReportWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Crew\CrewDashboard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Crew\CrewFlightsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Crew\CrewHoursView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Crew\CrewQualificationView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Crew\CrewReportsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Crew\CrewTrainingView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Crew\EditPilotReportWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Tech\AddTechnicalReportWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Tech\EditTechnicalReportWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Tech\MaintenanceScheduleWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Tech\MyRequestsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Tech\RequestPartWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Tech\TechnicalDashboard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Tech\TechnicalPartsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="views\Tech\TechnicalReportsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

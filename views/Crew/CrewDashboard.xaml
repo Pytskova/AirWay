@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="AirlineApp.Views.Crew.CrewDashboard"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:AirlineApp.Views.Crew">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Панель навигации -->
+        <StackPanel Grid.Column="0"
+                    Background="#232a3b"
+                    VerticalAlignment="Stretch">
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Мои рейсы"
+                    Click="Flights_Click"/>
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Налёт часов"
+                    Click="Hours_Click"/>
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Отчёты"
+                    Click="Reports_Click"/>
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Обучение"
+                    Click="Training_Click"/>
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Квалификация"
+                    Click="Qualification_Click"/>
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Выйти"
+                    Click="BtnLogout_Click"/>
+        </StackPanel>
+
+        <!-- Основная область для загрузки экранов -->
+        <ContentControl x:Name="MainContent"
+                        Grid.Column="1"
+                        Margin="16"/>
+    </Grid>
+</UserControl>

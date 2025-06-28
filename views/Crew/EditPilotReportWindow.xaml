@@ -1,0 +1,77 @@
+﻿<Window x:Class="AirlineApp.Views.Crew.EditPilotReportWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Редактировать отчёт пилота"
+        Width="500" Height="600"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="CanResize">
+    <Grid Margin="16">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Редактировать отчёт"
+                   FontSize="20" FontWeight="Bold"
+                   Grid.Row="0" Margin="0,0,0,16"/>
+
+        <StackPanel Grid.Row="1" VerticalAlignment="Top">
+            <!-- Аналогично AddPilotReportWindow: все поля с тем же Margin -->
+            <StackPanel Margin="0,0,0,8">
+                <TextBlock Text="Дата отчёта:"/>
+                <DatePicker x:Name="ReportDatePicker"/>
+            </StackPanel>
+
+            <StackPanel Margin="0,0,0,8">
+                <TextBlock Text="Фактический вылет:"/>
+                <DockPanel>
+                    <DatePicker x:Name="DepartureDatePicker" Width="130"/>
+                    <TextBox x:Name="DepartureTimeBox" Width="70" Margin="8,0,0,0"/>
+                </DockPanel>
+            </StackPanel>
+
+            <StackPanel Margin="0,0,0,8">
+                <TextBlock Text="Фактический прилёт:"/>
+                <DockPanel>
+                    <DatePicker x:Name="ArrivalDatePicker" Width="130"/>
+                    <TextBox x:Name="ArrivalTimeBox" Width="70" Margin="8,0,0,0"/>
+                </DockPanel>
+            </StackPanel>
+
+            <StackPanel Margin="0,0,0,8">
+                <TextBlock Text="Использовано топлива (л):"/>
+                <TextBox x:Name="FuelBox"/>
+            </StackPanel>
+
+            <StackPanel Margin="0,0,0,8">
+                <TextBlock Text="Длительность задержки (мин):"/>
+                <TextBox x:Name="DelayBox"/>
+                <TextBlock Text="Причина задержки:" Margin="0,8,0,0"/>
+                <TextBox x:Name="DelayReasonBox"/>
+            </StackPanel>
+
+            <StackPanel Margin="0,0,0,8">
+                <TextBlock Text="Технические проблемы:"/>
+                <TextBox x:Name="TechIssuesBox" Height="60" TextWrapping="Wrap" AcceptsReturn="True"/>
+            </StackPanel>
+
+            <StackPanel Margin="0,0,0,8">
+                <TextBlock Text="Погодные заметки:"/>
+                <TextBox x:Name="WeatherNotesBox" Height="60" TextWrapping="Wrap" AcceptsReturn="True"/>
+            </StackPanel>
+
+            <StackPanel Margin="0,0,0,8">
+                <TextBlock Text="Прочие замечания:"/>
+                <TextBox x:Name="RemarksBox" Height="80" TextWrapping="Wrap" AcceptsReturn="True"/>
+            </StackPanel>
+        </StackPanel>
+
+        <Button Grid.Row="2"
+                Content="Обновить"
+                Width="120" Height="36"
+                HorizontalAlignment="Left"
+                Margin="0,16,0,0"
+                Click="UpdateReport_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="AirlineApp.Views.Tech.TechnicalDashboard"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="220"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Панель навигации -->
+        <StackPanel Background="#232a3b"
+                    Grid.Column="0">
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Технические отчёты"
+                    Click="BtnReports_Click"/>
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Расписание ТО"
+                    Click="BtnSchedule_Click"/>
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Справочник деталей"
+                    Click="BtnParts_Click"/>
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Мои заявки"
+                    Click="BtnRequests_Click"/>
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Выйти"
+                    Click="BtnLogout_Click"/>
+        </StackPanel>
+
+        <!-- Контент -->
+        <ContentControl x:Name="MainContent"
+                        Grid.Column="1"
+                        Margin="16"/>
+    </Grid>
+</UserControl>

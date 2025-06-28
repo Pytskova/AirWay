@@ -1,0 +1,97 @@
+﻿<Window x:Class="AirlineApp.Views.Tech.RequestPartWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Оформить заявку"
+        Width="480" Height="360"
+        MinWidth="450" MinHeight="350"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="CanResize">
+    <Grid Margin="16">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Заголовок -->
+            <RowDefinition Height="*"/>
+            <!-- Поля -->
+            <RowDefinition Height="Auto"/>
+            <!-- Кнопка -->
+        </Grid.RowDefinitions>
+
+        <!-- Заголовок -->
+        <TextBlock Text="Оформить заявку"
+                   FontWeight="Bold"
+                   FontSize="18"
+                   Grid.Row="0"
+                   Margin="0,0,0,12"/>
+
+        <!-- Основная форма -->
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <!-- Бортовой номер -->
+                <RowDefinition Height="Auto"/>
+                <!-- Деталь -->
+                <RowDefinition Height="Auto"/>
+                <!-- Количество -->
+                <RowDefinition Height="*"/>
+                <!-- Причина -->
+            </Grid.RowDefinitions>
+
+            <!-- Бортовой номер -->
+            <TextBlock Text="Бортовой номер:"
+                       VerticalAlignment="Center"
+                       Margin="0,0,8,8"
+                       Grid.Row="0" Grid.Column="0"/>
+            <ComboBox Name="AircraftBox"
+                      Grid.Row="0" Grid.Column="1"
+                      Margin="0,0,0,8"
+                      Height="24"/>
+
+            <!-- Название детали -->
+            <TextBlock Text="Деталь:"
+                       VerticalAlignment="Center"
+                       Margin="0,0,8,8"
+                       Grid.Row="1" Grid.Column="0"/>
+            <ComboBox Name="PartNameBox"
+                      Grid.Row="1" Grid.Column="1"
+                      Margin="0,0,0,8"
+                      Height="24"/>
+
+            <!-- Количество -->
+            <TextBlock Text="Кол-во:"
+                       VerticalAlignment="Center"
+                       Margin="0,0,8,8"
+                       Grid.Row="2" Grid.Column="0"/>
+            <TextBox Name="QuantityBox"
+                     Grid.Row="2"
+                     Margin="100,0,268,8"
+                     Width="80"
+                     Height="24" Grid.ColumnSpan="2"/>
+
+            <!-- Причина -->
+            <TextBlock Text="Причина:"
+                       VerticalAlignment="Top"
+                       Margin="0,0,8,0"
+                       Grid.Row="3" Grid.Column="0"/>
+            <TextBox Name="ReasonBox"
+                     Grid.Row="3" Grid.Column="1"
+                     TextWrapping="Wrap"
+                     AcceptsReturn="True"
+                     VerticalScrollBarVisibility="Auto"/>
+        </Grid>
+
+        <!-- Кнопка Отправить -->
+        <StackPanel Grid.Row="2"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Right"
+                    Margin="0,12,0,0">
+            <Button Content="Отправить"
+                    Width="100"
+                    Height="30"
+                    Click="SendRequest_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

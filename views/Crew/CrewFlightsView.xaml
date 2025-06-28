@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="AirlineApp.Views.CrewFlightsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <StackPanel Margin="20">
+        <TextBlock Text="Мои рейсы" FontSize="18" FontWeight="Bold" Margin="0,0,0,16"/>
+        <DataGrid x:Name="FlightsGrid" AutoGenerateColumns="False" IsReadOnly="True" Height="350">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="№ рейса" Binding="{Binding FlightNumber}"/>
+                <DataGridTextColumn Header="Маршрут" Binding="{Binding Route}"/>
+                <DataGridTextColumn Header="Самолёт" Binding="{Binding AircraftRegistration}"/>
+                <DataGridTextColumn Header="Вылет" Binding="{Binding ScheduledDeparture, StringFormat={}{0:dd.MM.yyyy HH:mm}}"/>
+                <DataGridTextColumn Header="Прилет" Binding="{Binding ScheduledArrival, StringFormat={}{0:dd.MM.yyyy HH:mm}}"/>
+                <DataGridTextColumn Header="Статус" Binding="{Binding Status}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </StackPanel>
+</UserControl>

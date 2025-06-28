@@ -1,0 +1,1769 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\tech\\edittechnicalreportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\tech\\edittechnicalreportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\tech\\maintenanceschedulewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\tech\\maintenanceschedulewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\tech\\myrequestswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\tech\\myrequestswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\tech\\requestpartwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\tech\\requestpartwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\tech\\technicaldashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\tech\\technicaldashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\crew\\crewdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\crew\\crewdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\crew\\addpilotreportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\crew\\addpilotreportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\crew\\addpilotreportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\crew\\addpilotreportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\crew\\crewreportsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\crew\\crewreportsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\crew\\crewreportsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\crew\\crewreportsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\crew\\crewdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\crew\\crewdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\tech\\technicalpartswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\tech\\technicalpartswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\addeditaircraftwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\addeditaircraftwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\addeditaircraftwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\addeditaircraftwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\tech\\technicalreportswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\tech\\technicalreportswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\managetrainingeventsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\managetrainingeventsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\manageaircraftview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\manageaircraftview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\manageflightsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\manageflightsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\manageemployeesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\manageemployeesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\addedittrainingeventwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\addedittrainingeventwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\managetrainingeventsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\managetrainingeventsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\services\\trainingeventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:services\\trainingeventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\models\\trainingevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:models\\trainingevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\data\\airlinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:data\\airlinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\models\\technicalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:models\\technicalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\addedittrainingeventwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\addedittrainingeventwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\crew\\crewtrainingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\crew\\crewtrainingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\crew\\crewtrainingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\crew\\crewtrainingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\crew\\crewhoursview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\crew\\crewhoursview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\crew\\crewhoursview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\crew\\crewhoursview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\crew\\editpilotreportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\crew\\editpilotreportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\crew\\editpilotreportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\crew\\editpilotreportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\models\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:models\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\models\\flightlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:models\\flightlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\models\\pilotreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:models\\pilotreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\tech\\technicaldashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\tech\\technicaldashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\tech\\requestpartwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\tech\\requestpartwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\tech\\technicalpartswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\tech\\technicalpartswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\sparepartsadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\sparepartsadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\sparepartsadminview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\sparepartsadminview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\assigncrewwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\assigncrewwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\managereportsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\managereportsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\services\\generalreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:services\\generalreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\viewmodels\\generalreportitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:viewmodels\\generalreportitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\services\\employeetrainingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:services\\employeetrainingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\crew\\crewflightsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\crew\\crewflightsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\models\\employeetraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:models\\employeetraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\managereportsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\managereportsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\services\\technicalreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:services\\technicalreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\services\\crewassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:services\\crewassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\services\\pilotreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:services\\pilotreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\viewmodels\\reportlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:viewmodels\\reportlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\addeditmaintenanceschedulewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\addeditmaintenanceschedulewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\addeditmaintenanceschedulewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\addeditmaintenanceschedulewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\maintenancescheduleadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\maintenancescheduleadminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\manageflightsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\manageflightsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\addeditflightwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\addeditflightwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\addeditflightwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\addeditflightwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\assigncrewwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\assigncrewwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\manageemployeesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\manageemployeesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\addeditreportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\addeditreportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\maintenancescheduleadminview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\maintenancescheduleadminview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\addeditemployeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\addeditemployeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\addeditsparepartwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\addeditsparepartwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\manageaircraftview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\manageaircraftview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\addeditsparepartwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\addeditsparepartwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\addeditemployeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\addeditemployeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\admin\\addeditreportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\admin\\addeditreportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\models\\maintenanceschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:models\\maintenanceschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\tech\\addtechnicalreportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\tech\\addtechnicalreportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\tech\\addtechnicalreportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\tech\\addtechnicalreportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\tech\\myrequestswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\tech\\myrequestswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\tech\\edittechnicalreportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\tech\\edittechnicalreportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\tech\\maintenanceschedulewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\tech\\maintenanceschedulewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\tech\\technicalreportswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\tech\\technicalreportswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\models\\partrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:models\\partrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\migrations\\airlinecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:migrations\\airlinecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\models\\sparepart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:models\\sparepart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\obj\\Debug\\net8.0-windows\\views\\Tech\\TechnicalReportsWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows\\views\\Tech\\TechnicalReportsWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\crew\\crewqualificationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\crew\\crewqualificationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\crew\\crewqualificationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\crew\\crewqualificationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\views\\crew\\crewflightsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:views\\crew\\crewflightsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s1\\Downloads\\LoginWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\models\\crewassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:models\\crewassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\models\\crewassignment.partial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:models\\crewassignment.partial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s1\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\migrations\\20250619201500_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:migrations\\20250619201500_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\migrations\\20250620103857_addpartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:migrations\\20250620103857_addpartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\migrations\\20250620093305_fixmaintenanceschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:migrations\\20250620093305_fixmaintenanceschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\migrations\\20250626090204_addactualtimestoflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:migrations\\20250626090204_addactualtimestoflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\migrations\\20250627091713_addemployeetrainingrelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:migrations\\20250627091713_addemployeetrainingrelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\migrations\\20250628065858_syncaftermodelchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:migrations\\20250628065858_syncaftermodelchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\migrations\\20250627234823_pilotreport_linkedflightlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:migrations\\20250627234823_pilotreport_linkedflightlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|c:\\users\\s1\\desktop\\\u0438\u0442\u043E\u0433\\airlineapp\\migrations\\20250627224700_syncmodeltodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B95E1A-1517-42F5-9328-E5EF953621C1}|airlineApp.csproj|solutionrelative:migrations\\20250627224700_syncmodeltodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestPartWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\RequestPartWindow.xaml",
+              "RelativeDocumentMoniker": "views\\Tech\\RequestPartWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\RequestPartWindow.xaml",
+              "RelativeToolTip": "views\\Tech\\RequestPartWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T11:56:54.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyRequestsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\MyRequestsWindow.xaml",
+              "RelativeDocumentMoniker": "views\\Tech\\MyRequestsWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\MyRequestsWindow.xaml",
+              "RelativeToolTip": "views\\Tech\\MyRequestsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T10:58:31.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaintenanceScheduleWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\MaintenanceScheduleWindow.xaml",
+              "RelativeDocumentMoniker": "views\\Tech\\MaintenanceScheduleWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\MaintenanceScheduleWindow.xaml",
+              "RelativeToolTip": "views\\Tech\\MaintenanceScheduleWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T07:17:43.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditTechnicalReportWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\EditTechnicalReportWindow.xaml",
+              "RelativeDocumentMoniker": "views\\Tech\\EditTechnicalReportWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\EditTechnicalReportWindow.xaml",
+              "RelativeToolTip": "views\\Tech\\EditTechnicalReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T23:16:12.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TechnicalDashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\TechnicalDashboard.xaml",
+              "RelativeDocumentMoniker": "views\\Tech\\TechnicalDashboard.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\TechnicalDashboard.xaml",
+              "RelativeToolTip": "views\\Tech\\TechnicalDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-11T21:05:21.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrewDashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewDashboard.xaml",
+              "RelativeDocumentMoniker": "views\\Crew\\CrewDashboard.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewDashboard.xaml",
+              "RelativeToolTip": "views\\Crew\\CrewDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-11T21:04:56.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminDashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AdminDashboard.xaml",
+              "RelativeDocumentMoniker": "views\\admin\\AdminDashboard.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AdminDashboard.xaml",
+              "RelativeToolTip": "views\\admin\\AdminDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-11T21:03:53.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddPilotReportWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\AddPilotReportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "views\\Crew\\AddPilotReportWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\AddPilotReportWindow.xaml.cs",
+              "RelativeToolTip": "views\\Crew\\AddPilotReportWindow.xaml.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwFgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:52:30.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CrewReportsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewReportsView.xaml.cs",
+              "RelativeDocumentMoniker": "views\\Crew\\CrewReportsView.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewReportsView.xaml.cs",
+              "RelativeToolTip": "views\\Crew\\CrewReportsView.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:57:44.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddPilotReportWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\AddPilotReportWindow.xaml",
+              "RelativeDocumentMoniker": "views\\Crew\\AddPilotReportWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\AddPilotReportWindow.xaml",
+              "RelativeToolTip": "views\\Crew\\AddPilotReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T20:52:02.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CrewReportsView.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewReportsView.xaml",
+              "RelativeDocumentMoniker": "views\\Crew\\CrewReportsView.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewReportsView.xaml",
+              "RelativeToolTip": "views\\Crew\\CrewReportsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T08:57:21.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CrewDashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "views\\Crew\\CrewDashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewDashboard.xaml.cs",
+              "RelativeToolTip": "views\\Crew\\CrewDashboard.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAArwCIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:27:56.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TechnicalPartsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\TechnicalPartsWindow.xaml",
+              "RelativeDocumentMoniker": "views\\Tech\\TechnicalPartsWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\TechnicalPartsWindow.xaml",
+              "RelativeToolTip": "views\\Tech\\TechnicalPartsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T10:27:11.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TechnicalReportsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\TechnicalReportsWindow.xaml",
+              "RelativeDocumentMoniker": "views\\Tech\\TechnicalReportsWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\TechnicalReportsWindow.xaml",
+              "RelativeToolTip": "views\\Tech\\TechnicalReportsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T23:12:27.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEditAircraftWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditAircraftWindow.xaml",
+              "RelativeDocumentMoniker": "views\\admin\\AddEditAircraftWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditAircraftWindow.xaml",
+              "RelativeToolTip": "views\\admin\\AddEditAircraftWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T05:45:15.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddEditAircraftWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditAircraftWindow.xaml.cs",
+              "RelativeDocumentMoniker": "views\\admin\\AddEditAircraftWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditAircraftWindow.xaml.cs",
+              "RelativeToolTip": "views\\admin\\AddEditAircraftWindow.xaml.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAwwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:24:34.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageTrainingEventsView.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageTrainingEventsView.xaml",
+              "RelativeDocumentMoniker": "views\\admin\\ManageTrainingEventsView.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageTrainingEventsView.xaml",
+              "RelativeToolTip": "views\\admin\\ManageTrainingEventsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T09:09:49.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManageAircraftView.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageAircraftView.xaml",
+              "RelativeDocumentMoniker": "views\\admin\\ManageAircraftView.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageAircraftView.xaml",
+              "RelativeToolTip": "views\\admin\\ManageAircraftView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T05:20:04.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ManageFlightsView.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageFlightsView.xaml",
+              "RelativeDocumentMoniker": "views\\admin\\ManageFlightsView.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageFlightsView.xaml",
+              "RelativeToolTip": "views\\admin\\ManageFlightsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T06:09:27.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManageEmployeesView.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageEmployeesView.xaml",
+              "RelativeDocumentMoniker": "views\\admin\\ManageEmployeesView.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageEmployeesView.xaml",
+              "RelativeToolTip": "views\\admin\\ManageEmployeesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T05:09:54.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddEditTrainingEventWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditTrainingEventWindow.xaml",
+              "RelativeDocumentMoniker": "views\\admin\\AddEditTrainingEventWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditTrainingEventWindow.xaml",
+              "RelativeToolTip": "views\\admin\\AddEditTrainingEventWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T09:09:23.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminDashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AdminDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "views\\admin\\AdminDashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AdminDashboard.xaml.cs",
+              "RelativeToolTip": "views\\admin\\AdminDashboard.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAlwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:04:24.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "20250628065858_SyncAfterModelChanges.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\migrations\\20250628065858_SyncAfterModelChanges.cs",
+              "RelativeDocumentMoniker": "migrations\\20250628065858_SyncAfterModelChanges.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\migrations\\20250628065858_SyncAfterModelChanges.cs",
+              "RelativeToolTip": "migrations\\20250628065858_SyncAfterModelChanges.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T06:58:58.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManageTrainingEventsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageTrainingEventsView.xaml.cs",
+              "RelativeDocumentMoniker": "views\\admin\\ManageTrainingEventsView.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageTrainingEventsView.xaml.cs",
+              "RelativeToolTip": "views\\admin\\ManageTrainingEventsView.xaml.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:09:57.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TrainingEventService.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\services\\TrainingEventService.cs",
+              "RelativeDocumentMoniker": "services\\TrainingEventService.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\services\\TrainingEventService.cs",
+              "RelativeToolTip": "services\\TrainingEventService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:08:56.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TechnicalReport.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\TechnicalReport.cs",
+              "RelativeDocumentMoniker": "models\\TechnicalReport.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\TechnicalReport.cs",
+              "RelativeToolTip": "models\\TechnicalReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:29:34.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:10:53.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AirlineContext.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\Data\\AirlineContext.cs",
+              "RelativeDocumentMoniker": "Data\\AirlineContext.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\Data\\AirlineContext.cs",
+              "RelativeToolTip": "Data\\AirlineContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:11:04.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TrainingEvent.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\TrainingEvent.cs",
+              "RelativeDocumentMoniker": "models\\TrainingEvent.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\TrainingEvent.cs",
+              "RelativeToolTip": "models\\TrainingEvent.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:30:11.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddEditTrainingEventWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditTrainingEventWindow.xaml.cs",
+              "RelativeDocumentMoniker": "views\\admin\\AddEditTrainingEventWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditTrainingEventWindow.xaml.cs",
+              "RelativeToolTip": "views\\admin\\AddEditTrainingEventWindow.xaml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwEMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:09:30.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CrewTrainingView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewTrainingView.xaml.cs",
+              "RelativeDocumentMoniker": "views\\Crew\\CrewTrainingView.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewTrainingView.xaml.cs",
+              "RelativeToolTip": "views\\Crew\\CrewTrainingView.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T09:01:31.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CrewTrainingView.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewTrainingView.xaml",
+              "RelativeDocumentMoniker": "views\\Crew\\CrewTrainingView.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewTrainingView.xaml",
+              "RelativeToolTip": "views\\Crew\\CrewTrainingView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T09:01:26.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CrewHoursView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewHoursView.xaml.cs",
+              "RelativeDocumentMoniker": "views\\Crew\\CrewHoursView.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewHoursView.xaml.cs",
+              "RelativeToolTip": "views\\Crew\\CrewHoursView.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:57:01.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CrewHoursView.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewHoursView.xaml",
+              "RelativeDocumentMoniker": "views\\Crew\\CrewHoursView.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewHoursView.xaml",
+              "RelativeToolTip": "views\\Crew\\CrewHoursView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T08:56:44.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditPilotReportWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\EditPilotReportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "views\\Crew\\EditPilotReportWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\EditPilotReportWindow.xaml.cs",
+              "RelativeToolTip": "views\\Crew\\EditPilotReportWindow.xaml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:13:47.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EditPilotReportWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\EditPilotReportWindow.xaml",
+              "RelativeDocumentMoniker": "views\\Crew\\EditPilotReportWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\EditPilotReportWindow.xaml",
+              "RelativeToolTip": "views\\Crew\\EditPilotReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T21:13:31.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Aircraft.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\Aircraft.cs",
+              "RelativeDocumentMoniker": "models\\Aircraft.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\Aircraft.cs",
+              "RelativeToolTip": "models\\Aircraft.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:27:47.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "20250627234823_PilotReport_LinkedFlightLog.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\migrations\\20250627234823_PilotReport_LinkedFlightLog.cs",
+              "RelativeDocumentMoniker": "migrations\\20250627234823_PilotReport_LinkedFlightLog.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\migrations\\20250627234823_PilotReport_LinkedFlightLog.cs",
+              "RelativeToolTip": "migrations\\20250627234823_PilotReport_LinkedFlightLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T23:48:23.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FlightLog.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\FlightLog.cs",
+              "RelativeDocumentMoniker": "models\\FlightLog.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\FlightLog.cs",
+              "RelativeToolTip": "models\\FlightLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:28:39.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-11T21:02:52.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-11T07:30:11.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PilotReport.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\PilotReport.cs",
+              "RelativeDocumentMoniker": "models\\PilotReport.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\PilotReport.cs",
+              "RelativeToolTip": "models\\PilotReport.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T23:07:47.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "20250627224700_SyncModelToDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\migrations\\20250627224700_SyncModelToDatabase.cs",
+              "RelativeDocumentMoniker": "migrations\\20250627224700_SyncModelToDatabase.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\migrations\\20250627224700_SyncModelToDatabase.cs",
+              "RelativeToolTip": "migrations\\20250627224700_SyncModelToDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T22:47:00.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RequestPartWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\RequestPartWindow.xaml.cs",
+              "RelativeDocumentMoniker": "views\\Tech\\RequestPartWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\RequestPartWindow.xaml.cs",
+              "RelativeToolTip": "views\\Tech\\RequestPartWindow.xaml.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:00:57.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TechnicalDashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\TechnicalDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "views\\Tech\\TechnicalDashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\TechnicalDashboard.xaml.cs",
+              "RelativeToolTip": "views\\Tech\\TechnicalDashboard.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIAwwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:30:43.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TechnicalPartsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\TechnicalPartsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "views\\Tech\\TechnicalPartsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\TechnicalPartsWindow.xaml.cs",
+              "RelativeToolTip": "views\\Tech\\TechnicalPartsWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T10:27:31.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SparePartsAdminView.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\SparePartsAdminView.xaml",
+              "RelativeDocumentMoniker": "views\\admin\\SparePartsAdminView.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\SparePartsAdminView.xaml",
+              "RelativeToolTip": "views\\admin\\SparePartsAdminView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-24T01:16:55.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SparePartsAdminView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\SparePartsAdminView.xaml.cs",
+              "RelativeDocumentMoniker": "views\\admin\\SparePartsAdminView.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\SparePartsAdminView.xaml.cs",
+              "RelativeToolTip": "views\\admin\\SparePartsAdminView.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T01:17:02.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ManageReportsView.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageReportsView.xaml",
+              "RelativeDocumentMoniker": "views\\admin\\ManageReportsView.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageReportsView.xaml",
+              "RelativeToolTip": "views\\admin\\ManageReportsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T05:20:40.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AssignCrewWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AssignCrewWindow.xaml",
+              "RelativeDocumentMoniker": "views\\admin\\AssignCrewWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AssignCrewWindow.xaml",
+              "RelativeToolTip": "views\\admin\\AssignCrewWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T06:13:17.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GeneralReportItem.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\ViewModels\\GeneralReportItem.cs",
+              "RelativeDocumentMoniker": "ViewModels\\GeneralReportItem.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\ViewModels\\GeneralReportItem.cs",
+              "RelativeToolTip": "ViewModels\\GeneralReportItem.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA8wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:09:21.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GeneralReportService.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\services\\GeneralReportService.cs",
+              "RelativeDocumentMoniker": "services\\GeneralReportService.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\services\\GeneralReportService.cs",
+              "RelativeToolTip": "services\\GeneralReportService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAqwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:09:41.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:03:31.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EmployeeTrainingService.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\services\\EmployeeTrainingService.cs",
+              "RelativeDocumentMoniker": "services\\EmployeeTrainingService.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\services\\EmployeeTrainingService.cs",
+              "RelativeToolTip": "services\\EmployeeTrainingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:28:31.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CrewFlightsView.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewFlightsView.xaml",
+              "RelativeDocumentMoniker": "views\\Crew\\CrewFlightsView.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewFlightsView.xaml",
+              "RelativeToolTip": "views\\Crew\\CrewFlightsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T08:37:05.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "20250627091713_AddEmployeeTrainingRelations.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\migrations\\20250627091713_AddEmployeeTrainingRelations.cs",
+              "RelativeDocumentMoniker": "migrations\\20250627091713_AddEmployeeTrainingRelations.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\migrations\\20250627091713_AddEmployeeTrainingRelations.cs",
+              "RelativeToolTip": "migrations\\20250627091713_AddEmployeeTrainingRelations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:17:13.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EmployeeTraining.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\EmployeeTraining.cs",
+              "RelativeDocumentMoniker": "models\\EmployeeTraining.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\EmployeeTraining.cs",
+              "RelativeToolTip": "models\\EmployeeTraining.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:30:29.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\Employee.cs",
+              "RelativeDocumentMoniker": "models\\Employee.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\Employee.cs",
+              "RelativeToolTip": "models\\Employee.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T19:09:35.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\services\\AuthService.cs",
+              "RelativeDocumentMoniker": "services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\services\\AuthService.cs",
+              "RelativeToolTip": "services\\AuthService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T20:59:49.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ManageReportsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageReportsView.xaml.cs",
+              "RelativeDocumentMoniker": "views\\admin\\ManageReportsView.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageReportsView.xaml.cs",
+              "RelativeToolTip": "views\\admin\\ManageReportsView.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:20:56.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TechnicalReportService.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\services\\TechnicalReportService.cs",
+              "RelativeDocumentMoniker": "services\\TechnicalReportService.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\services\\TechnicalReportService.cs",
+              "RelativeToolTip": "services\\TechnicalReportService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:26:30.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CrewAssignmentService.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\services\\CrewAssignmentService.cs",
+              "RelativeDocumentMoniker": "services\\CrewAssignmentService.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\services\\CrewAssignmentService.cs",
+              "RelativeToolTip": "services\\CrewAssignmentService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:57:04.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "PilotReportService.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\services\\PilotReportService.cs",
+              "RelativeDocumentMoniker": "services\\PilotReportService.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\services\\PilotReportService.cs",
+              "RelativeToolTip": "services\\PilotReportService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA6wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:26:00.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ReportListItem.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\ViewModels\\ReportListItem.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ReportListItem.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\ViewModels\\ReportListItem.cs",
+              "RelativeToolTip": "ViewModels\\ReportListItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:24:39.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AddEditMaintenanceScheduleWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditMaintenanceScheduleWindow.xaml.cs",
+              "RelativeDocumentMoniker": "views\\admin\\AddEditMaintenanceScheduleWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditMaintenanceScheduleWindow.xaml.cs",
+              "RelativeToolTip": "views\\admin\\AddEditMaintenanceScheduleWindow.xaml.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T01:16:06.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "MaintenanceScheduleAdminView.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\MaintenanceScheduleAdminView.xaml",
+              "RelativeDocumentMoniker": "views\\admin\\MaintenanceScheduleAdminView.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\MaintenanceScheduleAdminView.xaml",
+              "RelativeToolTip": "views\\admin\\MaintenanceScheduleAdminView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-24T01:15:18.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AddEditMaintenanceScheduleWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditMaintenanceScheduleWindow.xaml",
+              "RelativeDocumentMoniker": "views\\admin\\AddEditMaintenanceScheduleWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditMaintenanceScheduleWindow.xaml",
+              "RelativeToolTip": "views\\admin\\AddEditMaintenanceScheduleWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-24T01:15:58.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FlightService.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\services\\FlightService.cs",
+              "RelativeDocumentMoniker": "services\\FlightService.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\services\\FlightService.cs",
+              "RelativeToolTip": "services\\FlightService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:16:43.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AddEditFlightWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditFlightWindow.xaml",
+              "RelativeDocumentMoniker": "views\\admin\\AddEditFlightWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditFlightWindow.xaml",
+              "RelativeToolTip": "views\\admin\\AddEditFlightWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T06:10:06.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AddEditFlightWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditFlightWindow.xaml.cs",
+              "RelativeDocumentMoniker": "views\\admin\\AddEditFlightWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditFlightWindow.xaml.cs",
+              "RelativeToolTip": "views\\admin\\AddEditFlightWindow.xaml.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:10:25.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ManageFlightsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageFlightsView.xaml.cs",
+              "RelativeDocumentMoniker": "views\\admin\\ManageFlightsView.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageFlightsView.xaml.cs",
+              "RelativeToolTip": "views\\admin\\ManageFlightsView.xaml.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:09:50.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\services\\EmployeeService.cs",
+              "RelativeToolTip": "services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:56:48.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "20250626090204_AddActualTimesToFlight.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\migrations\\20250626090204_AddActualTimesToFlight.cs",
+              "RelativeDocumentMoniker": "migrations\\20250626090204_AddActualTimesToFlight.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\migrations\\20250626090204_AddActualTimesToFlight.cs",
+              "RelativeToolTip": "migrations\\20250626090204_AddActualTimesToFlight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:02:04.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\Flight.cs",
+              "RelativeDocumentMoniker": "models\\Flight.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\Flight.cs",
+              "RelativeToolTip": "models\\Flight.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:28:14.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "RelayCommand.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\RelayCommand.cs",
+              "RelativeToolTip": "RelayCommand.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:46:05.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AssignCrewWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AssignCrewWindow.xaml.cs",
+              "RelativeDocumentMoniker": "views\\admin\\AssignCrewWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AssignCrewWindow.xaml.cs",
+              "RelativeToolTip": "views\\admin\\AssignCrewWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADgvyMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:13:47.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\Role.cs",
+              "RelativeDocumentMoniker": "Role.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\Role.cs",
+              "RelativeToolTip": "Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T20:59:22.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ManageEmployeesView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageEmployeesView.xaml.cs",
+              "RelativeDocumentMoniker": "views\\admin\\ManageEmployeesView.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageEmployeesView.xaml.cs",
+              "RelativeToolTip": "views\\admin\\ManageEmployeesView.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAewDIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:10:18.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "AddEditReportWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditReportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "views\\admin\\AddEditReportWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditReportWindow.xaml.cs",
+              "RelativeToolTip": "views\\admin\\AddEditReportWindow.xaml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAewEgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:49:02.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "MaintenanceScheduleAdminView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\MaintenanceScheduleAdminView.xaml.cs",
+              "RelativeDocumentMoniker": "views\\admin\\MaintenanceScheduleAdminView.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\MaintenanceScheduleAdminView.xaml.cs",
+              "RelativeToolTip": "views\\admin\\MaintenanceScheduleAdminView.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAWwDIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T01:15:26.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "AddEditEmployeeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditEmployeeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "views\\admin\\AddEditEmployeeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditEmployeeWindow.xaml.cs",
+              "RelativeToolTip": "views\\admin\\AddEditEmployeeWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAWwBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:11:20.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "AddEditSparePartWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditSparePartWindow.xaml.cs",
+              "RelativeDocumentMoniker": "views\\admin\\AddEditSparePartWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditSparePartWindow.xaml.cs",
+              "RelativeToolTip": "views\\admin\\AddEditSparePartWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:57:54.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ManageAircraftView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageAircraftView.xaml.cs",
+              "RelativeDocumentMoniker": "views\\admin\\ManageAircraftView.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\ManageAircraftView.xaml.cs",
+              "RelativeToolTip": "views\\admin\\ManageAircraftView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:20:23.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "AddEditSparePartWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditSparePartWindow.xaml",
+              "RelativeDocumentMoniker": "views\\admin\\AddEditSparePartWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditSparePartWindow.xaml",
+              "RelativeToolTip": "views\\admin\\AddEditSparePartWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T05:57:32.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "AddEditEmployeeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditEmployeeWindow.xaml",
+              "RelativeDocumentMoniker": "views\\admin\\AddEditEmployeeWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditEmployeeWindow.xaml",
+              "RelativeToolTip": "views\\admin\\AddEditEmployeeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T05:10:54.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "AddEditReportWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditReportWindow.xaml",
+              "RelativeDocumentMoniker": "views\\admin\\AddEditReportWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\admin\\AddEditReportWindow.xaml",
+              "RelativeToolTip": "views\\admin\\AddEditReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T05:48:44.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:11:29.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "LoginWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:02:06.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "MaintenanceSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\MaintenanceSchedule.cs",
+              "RelativeDocumentMoniker": "models\\MaintenanceSchedule.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\MaintenanceSchedule.cs",
+              "RelativeToolTip": "models\\MaintenanceSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:29:14.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\LoginWindow.xaml",
+              "RelativeToolTip": "LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-11T21:01:25.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "AddTechnicalReportWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\AddTechnicalReportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "views\\Tech\\AddTechnicalReportWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\AddTechnicalReportWindow.xaml.cs",
+              "RelativeToolTip": "views\\Tech\\AddTechnicalReportWindow.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T23:15:41.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "AddTechnicalReportWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\AddTechnicalReportWindow.xaml",
+              "RelativeDocumentMoniker": "views\\Tech\\AddTechnicalReportWindow.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\AddTechnicalReportWindow.xaml",
+              "RelativeToolTip": "views\\Tech\\AddTechnicalReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T23:15:25.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "MyRequestsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\MyRequestsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "views\\Tech\\MyRequestsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\MyRequestsWindow.xaml.cs",
+              "RelativeToolTip": "views\\Tech\\MyRequestsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T10:58:40.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "EditTechnicalReportWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\EditTechnicalReportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "views\\Tech\\EditTechnicalReportWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\EditTechnicalReportWindow.xaml.cs",
+              "RelativeToolTip": "views\\Tech\\EditTechnicalReportWindow.xaml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T23:16:29.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "MaintenanceScheduleWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\MaintenanceScheduleWindow.xaml.cs",
+              "RelativeDocumentMoniker": "views\\Tech\\MaintenanceScheduleWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\MaintenanceScheduleWindow.xaml.cs",
+              "RelativeToolTip": "views\\Tech\\MaintenanceScheduleWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:17:53.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "TechnicalReportsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\TechnicalReportsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "views\\Tech\\TechnicalReportsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Tech\\TechnicalReportsWindow.xaml.cs",
+              "RelativeToolTip": "views\\Tech\\TechnicalReportsWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T23:12:37.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "PartRequest.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\PartRequest.cs",
+              "RelativeDocumentMoniker": "models\\PartRequest.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\PartRequest.cs",
+              "RelativeToolTip": "models\\PartRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T10:38:20.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "20250620103857_AddPartRequest.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\migrations\\20250620103857_AddPartRequest.cs",
+              "RelativeDocumentMoniker": "migrations\\20250620103857_AddPartRequest.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\migrations\\20250620103857_AddPartRequest.cs",
+              "RelativeToolTip": "migrations\\20250620103857_AddPartRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T10:38:57.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "20250620093305_FixMaintenanceSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\migrations\\20250620093305_FixMaintenanceSchedule.cs",
+              "RelativeDocumentMoniker": "migrations\\20250620093305_FixMaintenanceSchedule.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\migrations\\20250620093305_FixMaintenanceSchedule.cs",
+              "RelativeToolTip": "migrations\\20250620093305_FixMaintenanceSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:33:05.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "AirlineContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\migrations\\AirlineContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "migrations\\AirlineContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\migrations\\AirlineContextModelSnapshot.cs",
+              "RelativeToolTip": "migrations\\AirlineContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:31:44.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "SparePart.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\SparePart.cs",
+              "RelativeDocumentMoniker": "models\\SparePart.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\SparePart.cs",
+              "RelativeToolTip": "models\\SparePart.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:29:52.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "TechnicalReportsWindow.g.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\obj\\Debug\\net8.0-windows\\views\\Tech\\TechnicalReportsWindow.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows\\views\\Tech\\TechnicalReportsWindow.g.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\obj\\Debug\\net8.0-windows\\views\\Tech\\TechnicalReportsWindow.g.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0-windows\\views\\Tech\\TechnicalReportsWindow.g.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:13:41.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "20250619201500_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\migrations\\20250619201500_InitialCreate.cs",
+              "RelativeDocumentMoniker": "migrations\\20250619201500_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\migrations\\20250619201500_InitialCreate.cs",
+              "RelativeToolTip": "migrations\\20250619201500_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:15:00.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "CrewQualificationView.xaml",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewQualificationView.xaml",
+              "RelativeDocumentMoniker": "views\\Crew\\CrewQualificationView.xaml",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewQualificationView.xaml",
+              "RelativeToolTip": "views\\Crew\\CrewQualificationView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T09:02:10.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "CrewQualificationView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewQualificationView.xaml.cs",
+              "RelativeDocumentMoniker": "views\\Crew\\CrewQualificationView.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewQualificationView.xaml.cs",
+              "RelativeToolTip": "views\\Crew\\CrewQualificationView.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T09:02:17.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "CrewFlightsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewFlightsView.xaml.cs",
+              "RelativeDocumentMoniker": "views\\Crew\\CrewFlightsView.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\views\\Crew\\CrewFlightsView.xaml.cs",
+              "RelativeToolTip": "views\\Crew\\CrewFlightsView.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:37:18.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Qualification.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\Qualification.cs",
+              "RelativeDocumentMoniker": "models\\Qualification.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\Qualification.cs",
+              "RelativeToolTip": "models\\Qualification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:51:58.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Downloads\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s1\\Downloads\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T07:39:52.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "CrewAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\CrewAssignment.cs",
+              "RelativeDocumentMoniker": "models\\CrewAssignment.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\CrewAssignment.cs",
+              "RelativeToolTip": "models\\CrewAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:28:57.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "CrewAssignment.Partial.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\CrewAssignment.Partial.cs",
+              "RelativeDocumentMoniker": "models\\CrewAssignment.Partial.cs",
+              "ToolTip": "C:\\Users\\s1\\Desktop\\\u0438\u0442\u043E\u0433\\AirlineApp\\models\\CrewAssignment.Partial.cs",
+              "RelativeToolTip": "models\\CrewAssignment.Partial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:23:24.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\s1\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\s1\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAPEBAAAAAAAAAAAswP4BAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:55:42.797Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

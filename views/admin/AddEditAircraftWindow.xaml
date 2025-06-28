@@ -1,0 +1,39 @@
+﻿<Window x:Class="AirlineApp.Views.AddEditAircraftWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Самолёт" Height="300" Width="350" WindowStartupLocation="CenterOwner">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="Регистрационный №:" Grid.Row="0" Grid.Column="0" Margin="0,2"/>
+        <TextBox x:Name="RegBox" Grid.Row="0" Grid.Column="1" Margin="5,2"/>
+
+        <TextBlock Text="Модель:" Grid.Row="1" Grid.Column="0" Margin="0,2"/>
+        <TextBox x:Name="ModelBox" Grid.Row="1" Grid.Column="1" Margin="5,2"/>
+
+        <TextBlock Text="Вместимость:" Grid.Row="2" Grid.Column="0" Margin="0,2"/>
+        <TextBox x:Name="CapacityBox" Grid.Row="2" Grid.Column="1" Margin="5,2"/>
+
+        <TextBlock Text="Статус:" Grid.Row="3" Grid.Column="0" Margin="0,2"/>
+        <ComboBox x:Name="StatusBox" Grid.Row="3" Grid.Column="1" Margin="5,2">
+            <ComboBoxItem Content="Active"/>
+            <ComboBoxItem Content="UnderMaintenance"/>
+            <ComboBoxItem Content="Retired"/>
+        </ComboBox>
+
+        <StackPanel Grid.Row="4" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0">
+            <Button Content="Сохранить" Width="80" Margin="5" Click="Save_Click"/>
+            <Button Content="Отмена"   Width="80" Margin="5" Click="Cancel_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

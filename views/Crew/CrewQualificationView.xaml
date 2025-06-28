@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="AirlineApp.Views.CrewQualificationView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <StackPanel Margin="20">
+        <TextBlock Text="Квалификации и допуски" FontSize="18" FontWeight="Bold" Margin="0,0,0,16"/>
+        <DataGrid x:Name="QualGrid" AutoGenerateColumns="False" IsReadOnly="True" Height="350">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Название" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Уровень" Binding="{Binding Level}"/>
+                <DataGridTextColumn Header="Выдано" Binding="{Binding IssueDate, StringFormat={}{0:dd.MM.yyyy}}"/>
+                <DataGridTextColumn Header="Действует до" Binding="{Binding ExpiryDate, StringFormat={}{0:dd.MM.yyyy}}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </StackPanel>
+</UserControl>

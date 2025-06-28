@@ -1,0 +1,53 @@
+﻿<Window x:Class="AirlineApp.Views.AddEditReportWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Технический отчёт" Height="450" Width="600"
+        WindowStartupLocation="CenterOwner">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="200" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="ВС:" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" Margin="0,0,5,0"/>
+        <ComboBox x:Name="AircraftBox" Grid.Row="0" Grid.Column="1" DisplayMemberPath="RegistrationNumber"/>
+
+        <TextBlock Text="Сотрудник:" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" Margin="0,5,5,0"/>
+        <ComboBox x:Name="EmployeeBox" Grid.Row="1" Grid.Column="1" DisplayMemberPath="FullName" Margin="0,5,0,0"/>
+
+        <TextBlock Text="Описание:" Grid.Row="2" Grid.Column="0" VerticalAlignment="Top" Margin="0,5,5,0"/>
+        <TextBox x:Name="DescriptionBox" Grid.Row="2" Grid.Column="1" AcceptsReturn="True" TextWrapping="Wrap" Height="60" Margin="0,5,0,0"/>
+
+        <GroupBox Header="Запчасти" Grid.Row="3" Grid.ColumnSpan="2" Margin="0,10,0,0">
+            <DockPanel>
+                <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Margin="0,0,0,5">
+                    <Button x:Name="AddSpareButton" Content="Добавить" Click="AddSpare_Click" Margin="0,0,5,0" />
+                    <Button x:Name="EditSpareButton" Content="Изменить" Click="EditSpare_Click" Margin="0,0,5,0" />
+                    <Button x:Name="DeleteSpareButton" Content="Удалить" Click="DeleteSpare_Click" />
+                </StackPanel>
+                <DataGrid x:Name="SparePartsGrid" AutoGenerateColumns="False" CanUserAddRows="False" CanUserDeleteRows="False">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="40" />
+                        <DataGridTextColumn Header="Название" Binding="{Binding PartName}" Width="2*" />
+                        <DataGridTextColumn Header="Кол-во" Binding="{Binding Quantity}" Width="80" />
+                    </DataGrid.Columns>
+                </DataGrid>
+            </DockPanel>
+        </GroupBox>
+
+        <StackPanel Grid.Row="4" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+            <Button Content="Сохранить" Width="80" Margin="5" Click="Save_Click"/>
+            <Button Content="Отмена"   Width="80" Margin="5" Click="Cancel_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

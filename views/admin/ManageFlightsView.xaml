@@ -1,0 +1,54 @@
+﻿<UserControl x:Class="AirlineApp.Views.Admin.ManageFlightsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <DockPanel Margin="10">
+
+        <!-- тулбар CRUD -->
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="0,0,0,10">
+            <Button Content="Добавить" Margin="0,0,5,0" Click="Add_Click"/>
+            <Button Content="Изменить" Margin="0,0,5,0" Click="Edit_Click"/>
+            <Button Content="Удалить"  Margin="0,0,5,0" Click="Delete_Click"/>
+        </StackPanel>
+
+        <DataGrid x:Name="FlightsGrid"
+              AutoGenerateColumns="False"
+              ItemsSource="{Binding Flights}"
+              CanUserAddRows="False"
+              SelectionMode="Single"
+              IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID"
+                            Binding="{Binding Id}"
+                            Width="50"/>
+                <DataGridTextColumn Header="Номер рейса"
+                            Binding="{Binding FlightNumber}"
+                            Width="120"/>
+                <DataGridTextColumn Header="Маршрут"
+                            Binding="{Binding Route}"
+                            Width="200"/>
+                <DataGridTextColumn Header="Рег. номер"
+                            Binding="{Binding AircraftRegistration}"
+                            Width="120"/>
+                <DataGridTextColumn Header="План. вылет"
+                            Binding="{Binding ScheduledDeparture, StringFormat=dd.MM.yyyy HH:mm}"
+                            Width="150"/>
+                <DataGridTextColumn Header="План. прилёт"
+                            Binding="{Binding ScheduledArrival, StringFormat=dd.MM.yyyy HH:mm}"
+                            Width="150"/>
+
+                <!-- Кнопка «Назначить экипаж» -->
+                <DataGridTemplateColumn Header="Экипаж" Width="100">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Назначить"
+                      Command="{Binding DataContext.AssignCrewCommand,
+                                RelativeSource={RelativeSource AncestorType=UserControl}}"
+                      CommandParameter="{Binding Id}"
+                      Padding="4"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </DockPanel>
+</UserControl>

@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="AirlineApp.Views.Admin.AdminDashboard"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:AirlineApp.Views.Admin">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Меню -->
+        <StackPanel Grid.Column="0" Background="#223">
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Сотрудники"
+                    Click="BtnManageEmployees_Click"/>
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Рейсы"
+                    Click="BtnManageFlights_Click"/>
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Самолёты"
+                    Click="BtnManageAircraft_Click"/>
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Отчёты"
+                    Click="BtnManageReports_Click"/>
+
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Обучение"
+                    Click="BtnTrainingEvents_Click"/>
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Справочник деталей"
+                    Click="BtnSpareParts_Click"/>
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Расписание ТО"
+                    Click="BtnMaintenanceSchedule_Click"/>
+            <Button Style="{StaticResource DashboardButtonStyle}"
+                    Content="Выйти"
+                    Click="BtnLogout_Click"/>
+        </StackPanel>
+
+        <!-- Контент -->
+        <ContentControl x:Name="MainContent"
+                        Grid.Column="1"
+                        Margin="16"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,985 @@
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\airlineApp.csproj.AssemblyReference.cache
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\AddEditEmployeeWindow.baml
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\AdminDashboard.baml
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\ManageAircraftView.baml
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\ManageEmployeesView.baml
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\ManageReportsView.baml
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\AddEditEmployeeWindow.g.cs
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\AdminDashboard.g.cs
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\CrewDashboard.g.cs
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\ManageAircraftView.g.cs
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\ManageEmployeesView.g.cs
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\ManageReportsView.g.cs
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\TechDashboard.g.cs
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\airlineApp_MarkupCompile.cache
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\airlineApp.exe
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\airlineApp.deps.json
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\airlineApp.runtimeconfig.json
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\airlineApp.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\airlineApp.pdb
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\s1\Desktop\AirlineApp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\CrewDashboard.baml
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\TechDashboard.baml
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\airlineApp.g.resources
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\airlineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\airlineApp.AssemblyInfoInputs.cache
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\airlineApp.AssemblyInfo.cs
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\airlineApp.csproj.CoreCompileInputs.cache
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\airlineApp.csproj.Up2Date
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\airlineApp.dll
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\refint\airlineApp.dll
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\airlineApp.pdb
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\airlineApp.genruntimeconfig.cache
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\ref\airlineApp.dll
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\airlineApp_MarkupCompile.lref
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\AddEditAircraftWindow.baml
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\AddEditAircraftWindow.g.cs
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\AddEditReportWindow.baml
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\AddEditReportWindow.g.cs
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\AddEditSparePartWindow.baml
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\AddEditSparePartWindow.g.cs
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\AddEditFlightWindow.baml
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\AddEditFlightWindow.g.cs
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\ManageFlightsView.g.cs
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\AssignCrewWindow.baml
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\AssignCrewWindow.g.cs
+C:\Users\s1\Desktop\AirlineApp\obj\Debug\net8.0-windows\Views\ManageFlightsView.baml
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\airlineApp.csproj.AssemblyReference.cache
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditAircraftWindow.baml
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditEmployeeWindow.baml
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditFlightWindow.baml
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditReportWindow.baml
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditSparePartWindow.baml
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AssignCrewWindow.baml
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\ManageAircraftView.baml
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\ManageEmployeesView.baml
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechDashboard.baml
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditAircraftWindow.g.cs
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditEmployeeWindow.g.cs
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditFlightWindow.g.cs
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditReportWindow.g.cs
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditSparePartWindow.g.cs
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AdminDashboard.g.cs
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AssignCrewWindow.g.cs
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\ManageAircraftView.g.cs
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\ManageEmployeesView.g.cs
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\ManageFlightsView.g.cs
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\ManageReportsView.g.cs
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewDashboard.g.cs
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechDashboard.g.cs
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\airlineApp_MarkupCompile.cache
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\airlineApp_MarkupCompile.lref
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\airlineApp.exe
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\airlineApp.deps.json
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\airlineApp.runtimeconfig.json
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\airlineApp.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\airlineApp.pdb
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\s1\Documents\проект\AirlineApp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AdminDashboard.baml
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\ManageFlightsView.baml
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Admin\ManageReportsView.baml
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewDashboard.baml
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\airlineApp.g.resources
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\airlineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\airlineApp.AssemblyInfoInputs.cache
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\airlineApp.AssemblyInfo.cs
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\airlineApp.csproj.CoreCompileInputs.cache
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\airlineApp.csproj.Up2Date
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\airlineApp.dll
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\refint\airlineApp.dll
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\airlineApp.pdb
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\airlineApp.genruntimeconfig.cache
+C:\Users\s1\Documents\проект\AirlineApp\obj\Debug\net8.0-windows\ref\airlineApp.dll
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\airlineApp.csproj.AssemblyReference.cache
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditAircraftWindow.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditEmployeeWindow.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditFlightWindow.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditReportWindow.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditSparePartWindow.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AssignCrewWindow.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\ManageAircraftView.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\ManageEmployeesView.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Crew\AddPilotReportWindow.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewDashboard.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewFlightsView.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewHoursView.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewQualificationView.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewReportsView.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewTrainingView.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Crew\EditPilotReportWindow.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Tech\AddTechnicalReportWindow.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Tech\EditTechnicalReportWindow.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Tech\MaintenanceScheduleWindow.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Tech\MyRequestsWindow.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Tech\RequestPartWindow.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechnicalDashboard.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechnicalPartsWindow.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechnicalReportsWindow.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditAircraftWindow.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditEmployeeWindow.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditFlightWindow.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditReportWindow.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditSparePartWindow.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AdminDashboard.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AssignCrewWindow.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\ManageAircraftView.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\ManageEmployeesView.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\ManageFlightsView.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\ManageReportsView.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Crew\AddPilotReportWindow.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewDashboard.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewFlightsView.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewHoursView.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewQualificationView.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewReportsView.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewTrainingView.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Crew\EditPilotReportWindow.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Tech\AddTechnicalReportWindow.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Tech\EditTechnicalReportWindow.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Tech\MaintenanceScheduleWindow.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Tech\MyRequestsWindow.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Tech\RequestPartWindow.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechnicalDashboard.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechnicalPartsWindow.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechnicalReportsWindow.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\airlineApp_MarkupCompile.cache
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\airlineApp_MarkupCompile.lref
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\airlineApp.exe
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\airlineApp.deps.json
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\airlineApp.runtimeconfig.json
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\airlineApp.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\airlineApp.pdb
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\s1\3D Objects\AirlineApp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AdminDashboard.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\ManageFlightsView.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\ManageReportsView.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\airlineApp.g.resources
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\airlineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\airlineApp.AssemblyInfoInputs.cache
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\airlineApp.AssemblyInfo.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\airlineApp.csproj.CoreCompileInputs.cache
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\airlineApp.csproj.Up2Date
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\airlineApp.dll
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\refint\airlineApp.dll
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\airlineApp.pdb
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\airlineApp.genruntimeconfig.cache
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\ref\airlineApp.dll
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditMaintenanceScheduleWindow.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\MaintenanceScheduleAdminView.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\SparePartsAdminView.baml
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\AddEditMaintenanceScheduleWindow.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\MaintenanceScheduleAdminView.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\views\Admin\SparePartsAdminView.g.cs
+C:\Users\s1\3D Objects\AirlineApp\obj\Debug\net8.0-windows\App.baml
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\airlineApp.exe
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\airlineApp.deps.json
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\airlineApp.runtimeconfig.json
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\airlineApp.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\airlineApp.pdb
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\s1\Documents\AirlineApp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\airlineApp.csproj.AssemblyReference.cache
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditAircraftWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditEmployeeWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditFlightWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditMaintenanceScheduleWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditReportWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditSparePartWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\AssignCrewWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\MaintenanceScheduleAdminView.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageAircraftView.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageEmployeesView.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageFlightsView.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\SparePartsAdminView.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Crew\AddPilotReportWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewDashboard.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewFlightsView.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewHoursView.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewQualificationView.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewReportsView.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewTrainingView.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Crew\EditPilotReportWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Tech\AddTechnicalReportWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Tech\EditTechnicalReportWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Tech\MaintenanceScheduleWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Tech\MyRequestsWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Tech\RequestPartWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechnicalDashboard.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechnicalPartsWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechnicalReportsWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\App.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditAircraftWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditEmployeeWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditFlightWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditMaintenanceScheduleWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditReportWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditSparePartWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\AdminDashboard.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\AssignCrewWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\MaintenanceScheduleAdminView.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageAircraftView.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageEmployeesView.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageFlightsView.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageReportsView.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\SparePartsAdminView.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Crew\AddPilotReportWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewDashboard.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewFlightsView.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewHoursView.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewQualificationView.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewReportsView.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewTrainingView.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Crew\EditPilotReportWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Tech\AddTechnicalReportWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Tech\EditTechnicalReportWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Tech\MaintenanceScheduleWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Tech\MyRequestsWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Tech\RequestPartWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechnicalDashboard.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechnicalPartsWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechnicalReportsWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\airlineApp_MarkupCompile.cache
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\airlineApp_MarkupCompile.lref
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\AdminDashboard.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageReportsView.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\airlineApp.g.resources
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\airlineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\airlineApp.AssemblyInfoInputs.cache
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\airlineApp.AssemblyInfo.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\airlineApp.csproj.CoreCompileInputs.cache
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\airlineApp.csproj.Up2Date
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\airlineApp.dll
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\refint\airlineApp.dll
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\airlineApp.pdb
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\airlineApp.genruntimeconfig.cache
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\ref\airlineApp.dll
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditTrainingEventWindow.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageTrainingEventsView.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditTrainingEventWindow.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageTrainingEventsView.g.cs
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageGeneralReportView.baml
+C:\Users\s1\Documents\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageGeneralReportView.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\airlineApp.exe
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\airlineApp.deps.json
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\airlineApp.runtimeconfig.json
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\airlineApp.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\airlineApp.pdb
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\s1\Desktop\итог\AirlineApp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\airlineApp.csproj.AssemblyReference.cache
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditAircraftWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditEmployeeWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditFlightWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditMaintenanceScheduleWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditReportWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditSparePartWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditTrainingEventWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\AssignCrewWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\MaintenanceScheduleAdminView.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageAircraftView.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageEmployeesView.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageFlightsView.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageReportsView.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageTrainingEventsView.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\SparePartsAdminView.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Crew\AddPilotReportWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewDashboard.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewFlightsView.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewHoursView.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewQualificationView.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewReportsView.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewTrainingView.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Crew\EditPilotReportWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Tech\AddTechnicalReportWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Tech\EditTechnicalReportWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Tech\MaintenanceScheduleWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Tech\MyRequestsWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Tech\RequestPartWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechnicalDashboard.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechnicalPartsWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechnicalReportsWindow.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\App.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditAircraftWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditEmployeeWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditFlightWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditMaintenanceScheduleWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditReportWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditSparePartWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\AddEditTrainingEventWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\AdminDashboard.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\AssignCrewWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\MaintenanceScheduleAdminView.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageAircraftView.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageEmployeesView.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageFlightsView.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageReportsView.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\ManageTrainingEventsView.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\SparePartsAdminView.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Crew\AddPilotReportWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewDashboard.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewFlightsView.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewHoursView.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewQualificationView.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewReportsView.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Crew\CrewTrainingView.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Crew\EditPilotReportWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Tech\AddTechnicalReportWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Tech\EditTechnicalReportWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Tech\MaintenanceScheduleWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Tech\MyRequestsWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Tech\RequestPartWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechnicalDashboard.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechnicalPartsWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\Tech\TechnicalReportsWindow.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\airlineApp_MarkupCompile.cache
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\airlineApp_MarkupCompile.lref
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\views\admin\AdminDashboard.baml
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\airlineApp.g.resources
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\airlineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\airlineApp.AssemblyInfoInputs.cache
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\airlineApp.AssemblyInfo.cs
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\airlineApp.csproj.CoreCompileInputs.cache
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\airlineApp.csproj.Up2Date
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\airlineApp.dll
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\refint\airlineApp.dll
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\airlineApp.pdb
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\airlineApp.genruntimeconfig.cache
+C:\Users\s1\Desktop\итог\AirlineApp\obj\Debug\net8.0-windows\ref\airlineApp.dll
